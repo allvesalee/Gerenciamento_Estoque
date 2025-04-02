@@ -3,7 +3,7 @@ from tkinter import ttk
 import tkinter as tk
 import sqlite3
 
-
+# tdryftuhjpç´~[]
 # def frame inicial
 def abrir_cadastro():
     frame_entrada.grid_forget()
